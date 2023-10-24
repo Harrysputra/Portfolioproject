@@ -1,0 +1,19 @@
+.container-banner {
+        max-width: 720px !important;
+}
+
+.profile-card {
+    width: 100%;
+    padding: 14px 18px;
+    background-color: beige;
+    border-radius: 18px;
+    border: 1px solid #000;
+}
+
+.card-skill {
+    width: 100%;
+    padding: 14px 28px;
+    background-color: beige;
+    border-radius: 18px;
+    border: 1px solid #000;
+}
